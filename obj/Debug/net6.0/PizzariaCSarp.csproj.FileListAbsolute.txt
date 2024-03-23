@@ -1,0 +1,15 @@
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.csproj.AssemblyReference.cache
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.AssemblyInfoInputs.cache
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.AssemblyInfo.cs
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.csproj.CoreCompileInputs.cache
+C:\Users\kirle\csharp\PizzariaCSarp\bin\Debug\net6.0\PizzariaCSarp.exe
+C:\Users\kirle\csharp\PizzariaCSarp\bin\Debug\net6.0\PizzariaCSarp.deps.json
+C:\Users\kirle\csharp\PizzariaCSarp\bin\Debug\net6.0\PizzariaCSarp.runtimeconfig.json
+C:\Users\kirle\csharp\PizzariaCSarp\bin\Debug\net6.0\PizzariaCSarp.dll
+C:\Users\kirle\csharp\PizzariaCSarp\bin\Debug\net6.0\PizzariaCSarp.pdb
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.dll
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\refint\PizzariaCSarp.dll
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.pdb
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\PizzariaCSarp.genruntimeconfig.cache
+C:\Users\kirle\csharp\PizzariaCSarp\obj\Debug\net6.0\ref\PizzariaCSarp.dll
